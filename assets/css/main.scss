@@ -60,7 +60,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     @media screen and (max-width: $br) {
         display: block;
     }
@@ -87,8 +87,6 @@ ul {
     }
 }
 
-
-
 .blog {
     padding-bottom: 30px;
     h1 {
@@ -97,6 +95,12 @@ ul {
     }
 }
 
+.description {
+    padding-bottom: 30px;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 5px;
+}
 
 .post {
     padding-bottom: 30px;
