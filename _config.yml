@@ -14,5 +14,23 @@ url: "http://thegarrettkelly.com" # the base hostname & protocol for your site
 twitter_username: boontdustie
 github_username:  boontdustie
 
+# Misc
+google_verification: null
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
 # Build settings
 markdown: kramdown
