@@ -8,7 +8,7 @@
 # Site settings
 title: The Garrett Kelly
 email: boontdustie@gmail.com
-description: "At the intersection of weird technology / low power fm (lpfm) / ruby on rails / outsider music / social justice / fashion blogging / paranormal encounters / revolution / and emacs, I guess"
+description: "At the intersection of weird technology / low power fm (lpfm) / ruby on rails / outsider music / fashion blogging / paranormal encounters / revolution / and emacs, I guess"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://garrettkelly.xyz" # the base hostname & protocol for your site
 twitter_username: boontdustie

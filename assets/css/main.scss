@@ -101,7 +101,6 @@ ul {
     font-style: italic;
     margin-bottom: 5px;
 }
-
 .post {
     padding-bottom: 30px;
     &__title {
@@ -110,10 +109,6 @@ ul {
         text-decoration: underline;
         margin-top: 20px;
         margin-bottom: 5px;
-    }
-    &__date {
-        font-size: 1em;
-        font-style: italic;
     }
     &__content {
         padding-top: 40px;
@@ -189,6 +184,11 @@ ul {
             border-bottom: 1px dashed $color-fg;
         }
     }
+}
+
+.post-date {
+    font-size: .8em;
+    font-style: italic;
 }
 
 .about {
